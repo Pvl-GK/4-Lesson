@@ -1,0 +1,15 @@
+p, span   { color: blue;
+} 
+h2 {
+    text-align: center;
+}
+.header + p {
+    color: #ff0000;
+}
+h5 {
+    text-align: center;
+}
+.header ` p {
+    color: #ff0000;
+}
+
